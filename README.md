@@ -1,4 +1,4 @@
-flask-hello-world
+helloworld
 =================
 
-Test flask app for challenges
+Test apps for Dev Ops Challenges
